@@ -1,9 +1,10 @@
 console.log("Beep Boop");
+require('dotenv').config();
 //node bot.js
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('Nzc2NDMxMzAzNjcwNDk3MzIw.X60yAA.SM1Khc1R8Znwm87Ft4zGDDkyt1c');
+client.login(process.env.BOT_TOKEN);
 
 client.on('ready', readyDiscord);
 function readyDiscord() {
@@ -42,6 +43,6 @@ function gotMessage(msg) {
     msg.channel.send(replies[r]);
   }
   if (msg.content === "|help") {
-    msg.channel.send("**Here's a list of all the commands** \n `'|q' To show random quotes for when you're bored` \n \n More will be added soon");
+    msg.channel.send("**Here's a list of all the commands** \n `''|q' To show random quotes for when you're bored` \n \n More will be added soon");
   }
 }
