@@ -39,6 +39,7 @@ const replies = [
 //commands
 client.on('message', gotMessage);
 async function gotMessage(msg) {
+  let tokens = msg.content.split(' ');
   if (msg.content === "|q") {
     const r = Math.floor(Math.random() * replies.length);
     msg.channel.send(replies[r]);
@@ -46,8 +47,11 @@ async function gotMessage(msg) {
   if (msg.content === "|help") {
     msg.channel.send("**Here's a list of all the commands** \n `''|q' To show random quotes for when you're bored` \n \n More will be added soon");
   }
-  if (msg.content === "|gif") {
-    let url = `https://g.tenor.com/v1/search?q=cat&key=${process.env.TENORKEY}&limit=8`;
+  if (tokens[0] == "|gif") {
+     if (tokens.length > 1){
+      keywords = tokens.slice(1, tokens.length).join("");
+     }
+    let url = `https://g.tenor.com/v1/search?q=${keywords}&key=${process.env.TENORKEY}&contentfilter=high`;
     let response = await fetch(url);
     let json = await response.json();
     console.log(json);
