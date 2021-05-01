@@ -45,7 +45,7 @@ async function gotMessage(msg) {
     msg.channel.send(replies[r]);
   }
   if (msg.content === "|help") {
-    msg.channel.send("**Here's a list of all the commands** \n `''|q' To show random quotes for when you're bored \n |gif [enter search query] To show gif from Tenor` \n \n More will be added soon");
+    msg.channel.send("**Here's a list of all the commands** \n `'|q' To show random quotes for when you're bored \n '|gif' [enter search query] To show gif from Tenor` \n \n More will be added soon");
   }
   if (tokens[0] == "|gif") {
      if (tokens.length > 1){
