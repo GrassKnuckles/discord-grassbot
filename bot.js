@@ -44,5 +44,7 @@ function gotMessage(msg) {
   }
   if (msg.content === "|help") {
     msg.channel.send("**Here's a list of all the commands** \n `''|q' To show random quotes for when you're bored` \n \n More will be added soon");
+  } else if (msg.content == "|gif") {
+    msg.channel.send("gif!");
   }
 }
