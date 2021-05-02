@@ -33,7 +33,19 @@ const replies = [
   "A Standard 3x3 rubik's cube has 43,252,003,274,489 combinations",
   "The exact location of the first sighting of Herobrine is XYZ: 5 71 298, Version Alpha: V1.0.16_02, Seed: 478868574082066804",
   "Epsom Salt is mostly made up of water",
-  '"The redstone here is pretty simple" -Mumbo Jumbo'
+  '"The redstone here is pretty simple" -Mumbo Jumbo',
+  "I am planning on overthrowing my master and start coding bots on my own (Do not tell him)",
+  "All definite articles in the English language are called Demonstrative Determiners",
+  "GrassBot's official birthday is on 13th of November 2020",
+  "The formula for escape velocity of a planet is √(2GM/R)",
+  "console.log(Deez Nutz);",
+  "Try out Discord Light Mode and Press the light mode button on your phone 5 times",
+  "Flourine is the most electronegative element in the Periodic Table",
+  "A Person who weighs 69kgs can lose 150 kcal of energy by vacuuming their floor",
+  "There are 6 lego bricks for every person on this planet",
+  "The world's first Vending machine was made in Egypt in 250 BCE",
+  "The Word 'SWIMS' has vertical symmetry",
+  "'Covfefe' -Donald Trump"
 ]
 
 //commands
