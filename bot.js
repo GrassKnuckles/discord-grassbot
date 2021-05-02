@@ -45,7 +45,9 @@ const replies = [
   "There are 6 lego bricks for every person on this planet",
   "The world's first Vending machine was made in Egypt in 250 BCE",
   "The Word 'SWIMS' has vertical symmetry",
-  "'Covfefe' -Donald Trump"
+  "'Covfefe' -Donald Trump",
+  "Never try to argue against a stupid person. They will drag you down to their level and beat you with experience.",
+  "Arguing against idiots is like playing chess against a pigeon. Doesn't matter how good at chess you are, the pigeon is just gonna knock all the pieces over, shit on the board, declare itself winner and fly away"
 ]
 
 //commands
