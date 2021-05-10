@@ -47,7 +47,27 @@ const replies = [
   "The Word 'SWIMS' has vertical symmetry",
   "'Covfefe' -Donald Trump",
   "Never try to argue against a stupid person. They will drag you down to their level and beat you with experience.",
-  "Arguing against idiots is like playing chess against a pigeon. Doesn't matter how good at chess you are, the pigeon is just gonna knock all the pieces over, shit on the board, declare itself winner and fly away"
+  "Arguing against idiots is like playing chess against a pigeon. Doesn't matter how good at chess you are, the pigeon is just gonna knock all the pieces over, shit on the board, declare itself winner and fly away",
+  "Ice sweats when it melts",
+  '"You have gotta let go of that stuff from the past because it just doesn not matter! The only thing that matters is what you choose to be now" -The Dragon Warrior',
+  "***COMMUNISM***; IN THE SOVIET UNION",
+  "Chimpanzees have 48 chromosomes (24 pairs)",
+  "┐(´ー｀)┌",
+  '"Great supine invertebrate protoplasmic jellies" -Boris Johnson',
+  '"Sometimes we do the wrong things for the right reasons" -Mr. Ping',
+  "https://mattmakesgames.itch.io/celeste-classic-2",
+  "నా పేరు గ్రాస్‌బోట్ ఉండి",
+  "Bluetooth is named after the Norse King 'Harold Bluetooth'. Its logo is also the symbol of the king",
+  "https://synesthesia.rikard.io/",
+  "(x² + y² - 1)³ = x² * y³",
+  "This is pretty epic but what’s your opinion on child labor?",
+  '"If you break the laws of man, you go to jail. If you break the laws of God, you go to hell. If you break the laws of physics, you go to Sweden and get a Nobel prize." -Somewhere on the internet',
+  "Task Manager (Not Responding)",
+  "Cats are cool",
+  "Welche Veransaltungen gibt es in der Nächste Woche in deiner Stadt?",
+  "The Grand Prix in Monaco has been organized every year since 1929 and 2021 is the first time a non-Mercedes won",
+  "Ligma is a cool concept, check it out"
+
 ]
 
 //commands
