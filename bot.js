@@ -99,4 +99,7 @@ async function gotMessage(msg) {
     const r = Math.floor(Math.random() * json.results.length);
     msg.channel.send(json.results[r].url);
   }
+  if (msg.content === "|activate-thag") {
+    msg.channel.send("~hello");
+  }
 }
