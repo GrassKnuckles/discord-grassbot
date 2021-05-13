@@ -66,8 +66,15 @@ const replies = [
   "Cats are cool",
   "Welche Veransaltungen gibt es in der Nächste Woche in deiner Stadt?",
   "The Grand Prix in Monaco has been organized every year since 1929 and 2021 is the first time a non-Mercedes won",
-  "Ligma is a cool concept, check it out"
-
+  "Ligma is a cool concept, check it out",
+  "Due to the way treasure chests generate, you can find quintuple pig spawners in extremely rare cases in mesa mineshafts. Infact, a quintuple pig spawner can be found at seed:5520728315301704325 X:-18471 Y:59 Z:-15335. For more information and more seeds, visit https://www.youtube.com/watch?v=akV9ToIYhCY&t=0s",
+  "2b or not 2b, that is the question many sketchers face",
+  "e^πi = -1",
+  "The coastline of every country is a fractal, meaning it has an infinite perimeter",
+  "Tell me my man, do you bleed?",
+  "If calvin was 6yo when the comic strip 'Calvin and Hobbes' started, then by the end of the series, he should've been a 16yo guy",
+  "Girls are temporary but doom is eternal",
+  "Anyone remember fidget spinners?"
 ]
 
 //commands
