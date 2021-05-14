@@ -49,7 +49,7 @@ const replies = [
   "Never try to argue against a stupid person. They will drag you down to their level and beat you with experience.",
   "Arguing against idiots is like playing chess against a pigeon. Doesn't matter how good at chess you are, the pigeon is just gonna knock all the pieces over, shit on the board, declare itself winner and fly away",
   "Ice sweats when it melts",
-  '"You have gotta let go of that stuff from the past because it just doesn not matter! The only thing that matters is what you choose to be now" -The Dragon Warrior',
+  '"You have gotta let go of that stuff from the past because it just doesn not matter! The only thing that matters is what you choose to be now" -Po, The Dragon Warrior',
   "***COMMUNISM***; IN THE SOVIET UNION",
   "Chimpanzees have 48 chromosomes (24 pairs)",
   "┐(´ー｀)┌",
@@ -74,7 +74,8 @@ const replies = [
   "Tell me my man, do you bleed?",
   "If calvin was 6yo when the comic strip 'Calvin and Hobbes' started, then by the end of the series, he should've been a 16yo guy",
   "Girls are temporary but doom is eternal",
-  "Anyone remember fidget spinners?"
+  "Anyone remember fidget spinners?",
+  "If you enter the nether through the end, using '/setblock ~ ~ ~ minecraft:portal', you will get teleported to a glitched state of the nether, aptly named the 'Phantom Nether'"
 ]
 
 //commands
@@ -98,8 +99,5 @@ async function gotMessage(msg) {
     console.log(json);
     const r = Math.floor(Math.random() * json.results.length);
     msg.channel.send(json.results[r].url);
-  }
-  if (msg.content === "|activate-thag") {
-    msg.channel.send("~hello");
   }
 }
