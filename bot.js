@@ -75,7 +75,19 @@ const replies = [
   "If calvin was 6yo when the comic strip 'Calvin and Hobbes' started, then by the end of the series, he should've been a 16yo guy",
   "Girls are temporary but doom is eternal",
   "Anyone remember fidget spinners?",
-  "If you enter the nether through the end, using '/setblock ~ ~ ~ minecraft:portal', you will get teleported to a glitched state of the nether, aptly named the 'Phantom Nether'"
+  "If you enter the nether through the end, using '/setblock ~ ~ ~ minecraft:portal', you will get teleported to a glitched state of the nether, aptly named the 'Phantom Nether'",
+  "the 5th fret of the E string plays A",
+  '"I just wanna celebrate an live my life" ~Taio Cruz',
+  "Soiuz nerushimyj respublik svobodnykh",
+  "The P in Bollywood stands for Physics",
+  ";-;",
+  "Don't you dare press |q again",
+  "Look up on your ceiling, it has the word 'gullible' written on it",
+  '"Imagine Sucking" -This post was made by the gang that does not suck',
+  "The apple do be bad",
+  "Itsa me, Grassbot!",
+  "C:/tmp/",
+  "\n"
 ]
 
 //commands
