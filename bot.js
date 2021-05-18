@@ -77,7 +77,7 @@ const replies = [
   "Anyone remember fidget spinners?",
   "If you enter the nether through the end, using '/setblock ~ ~ ~ minecraft:portal', you will get teleported to a glitched state of the nether, aptly named the 'Phantom Nether'",
   "the 5th fret of the E string plays A",
-  '"I just wanna celebrate an live my life" ~Taio Cruz',
+  '"I just wanna celebrate an live my life" -Taio Cruz',
   "Soiuz nerushimyj respublik svobodnykh",
   "The P in Bollywood stands for Physics",
   ";-;",
@@ -87,7 +87,9 @@ const replies = [
   "The apple do be bad",
   "Itsa me, Grassbot!",
   "C:/tmp/",
-  "\n"
+  "\n",
+  '"You will never know the true value of a moment until it becomes a memory" -Spongebob Squarepants',
+  '"We didn’t know we were making memories, we were just having fun" -Winnie the Pooh'
 ]
 
 //commands
