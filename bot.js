@@ -89,7 +89,9 @@ const replies = [
   "C:/tmp/",
   "\n",
   '"You will never know the true value of a moment until it becomes a memory" -Spongebob Squarepants',
-  '"We didn’t know we were making memories, we were just having fun" -Winnie the Pooh'
+  '"We didn’t know we were making memories, we were just having fun" -Winnie the Pooh',
+  "I'd like to make myself believe \n That planet Earth turns slowly",
+  
 ]
 
 //commands
