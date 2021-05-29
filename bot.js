@@ -91,7 +91,8 @@ const replies = [
   '"You will never know the true value of a moment until it becomes a memory" -Spongebob Squarepants',
   '"We didn’t know we were making memories, we were just having fun" -Winnie the Pooh',
   "I'd like to make myself believe \n That planet Earth turns slowly",
-  "Fact: Santa only comes once a year, because he spends the rest of the year in prison for breaking and entering 4 billion homes without permission"
+  "Fact: Santa only comes once a year, because he spends the rest of the year in prison for breaking and entering 4 billion homes without permission",
+  "A parisian newspaper on the return of Napoléon Bonaparte: \n — 9th March, the Anthropophagus has quitted his den \n — 10th, the Corsican Ogre has landed at Cape Juan \n — 11th, the Tiger has arrived at Gap \n — 12th, the Monster slept at Grenoble \n — 13th, the Tyrant has passed through Lyons \n — 14th, the Usurper is directing his steps towards Dijon, but the brave and loyal Burgundians have risen en masse and surrounded him on all sides \n — 18th, Bonaparte is only sixty leagues from the capital; he has been fortunate enough to escape the hands of his pursuers \n — 19th, Bonaparte is advancing with rapid steps, but he will never enter Paris \n — 20th, Napoleon will, tomorrow, be under our rampart \n — 21st, the Emperor is at Fontainbleau \n — 22nd, His Imperial and Royal Majesty, yesterday evening, arrived at the Tuileries, amidst the joyful acclamations of his devoted and faithful subjects."
 ]
 
 //commands
