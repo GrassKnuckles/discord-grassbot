@@ -96,7 +96,11 @@ const replies = [
   '"The Things we can not obtain, often times are the most beautiful ones" -Gilgamesh, King of Heroes',
   "Math.random(69)",
   "You need to find a new hobby, instead of pressing |q again and again",
-  "|q"
+  "|q",
+  "Nobody expects the spanish inquisition!",
+  "The Reconquista is the longest war ever fought, lasting a total of 700 years (ca. 801-1492 AD), between the muslims moors and the christian spaniards for control over the iberian peninsula",
+  "The Zanzibar war is the shortest war ever fought between the zanzibarian rebels who overthrew the zanzibarian govt in a coup, vs the British empire. The war lasted a total of 38 minutes.",
+  '"If you only do what you can, you will never be more than you are right now" -Master Shifu'
 ]
 
 //commands
