@@ -101,7 +101,8 @@ const replies = [
   "The Reconquista is the longest war ever fought, lasting a total of 700 years (ca. 801-1492 AD), between the muslims moors and the christian spaniards for control over the iberian peninsula",
   "The Zanzibar war is the shortest war ever fought between the zanzibarian rebels who overthrew the zanzibarian govt in a coup, vs the British empire. The war lasted a total of 38 minutes.",
   '"If you only do what you can, you will never be more than you are right now" -Master Shifu',
-  '"Unless someone like you cares a whole awful lot, nothing is going to get better, its not." -Dr Seuss'
+  '"Unless someone like you cares a whole awful lot, nothing is going to get better, its not." -Dr Seuss',
+  "A problem worthy of attack, proves its worth by fighting back"
 ]
 
 //commands
